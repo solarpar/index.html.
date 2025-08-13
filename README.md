@@ -107,7 +107,7 @@
 <section id="contacto">
     <h2>Contacto</h2>
     <p>Email: <a href="mailto:info@solarpar.com">info@solarpar.com</a></p>
-    <p>Teléfono: <a href="tel:+34123456789">+34 123 456 789</a></p>
+    <p>Teléfono: <a href="tel:+34123456789">+34 695 348 992 </a></p>
 </section>
 
 <footer>
